@@ -5,7 +5,9 @@
     * Video input file <filename.avi>
     
 * Inference:<br>
-    * Run the cell to get the ouptut
+    * Run the cell in Main.ipynb to get the ouptut
+    * Make sure to include the necesssary files in the root folder
+   
     
 * Models:<br>
     * There are two models used here, inceptionNetV2 trained on COCO dataset, used transfer learning to train it on gait silhouette images
