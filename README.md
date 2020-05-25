@@ -1,5 +1,8 @@
 # Gait-Analysis-for-Person-Identification
 
+http://www.ijrar.org/papers/IJRAR19W1079.pdf
+
+
 * Inputs:<br>
     * Background image file - <bkgrd.jpg>
     * Video input file <filename.avi>
