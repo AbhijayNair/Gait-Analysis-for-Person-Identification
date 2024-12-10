@@ -4,7 +4,7 @@ http://www.ijrar.org/papers/IJRAR19W1079.pdf
 
 
 * Inputs:<br>
-    * Trained LSTM and CNN models: The files are not released on github due to ownership rights protection. Contact me at me@abhijaynair.com to know more.
+    * Trained LSTM and CNN models: The files are not released on github due to ownership rights protection.
     * Background image file - <bkgrd.jpg>
     * Video input file <filename.avi>
     
